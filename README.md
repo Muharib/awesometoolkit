@@ -1,5 +1,11 @@
 <div align="center">
 
+---
+
+## 🔗 Similar Browser-Based Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: PDF (merge, split, compress, sign, OCR, redact), image (remove background, resize, compress), video to GIF, QR codes, invoice generator. Files never leave your device — 100% private.
+
 # Awesome Toolkit
 
 **Your all-in-one file toolkit — 100% in your browser.**
