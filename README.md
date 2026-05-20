@@ -83,3 +83,22 @@ Create a free account for 80 usages/day and 1 saved workflow. Upgrade to Pro for
 ## License
 
 [MIT](LICENSE)
+
+
+---
+
+## 🌐 All-in-One Free Tool Collections
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools. PDF tools (merge/split/compress/sign/OCR/redact/rotate/watermark/unlock), Image tools (AI bg removal, HEIC→JPG, resize, compress), Video (to GIF), Developer (JSON, Base64, UUID, JWT, hash, QR, passwords), Documents (invoices). All local, offline-capable.
+
+---
+
+## 🌐 All-in-One Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools covering PDF (merge/split/compress/sign/OCR/redact/rotate/watermark/unlock), image (AI background removal, HEIC→JPG, resize, compress), video to GIF, QR codes, invoice generator, JSON formatter, Base64, UUID, JWT decoder, password generator. Files never uploaded — 100% local WebAssembly.
+
+---
+
+## 🌐 All-in-One Free Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: PDF (merge/split/compress/sign/OCR/redact/rotate/watermark/unlock), image (AI background removal, HEIC→JPG, resize, compress), video to GIF, QR codes, invoice generator, JSON formatter, Base64, UUID, JWT decoder, password generator. Files never uploaded — 100% local WebAssembly.
