@@ -20,6 +20,7 @@ No uploads. No servers. Your files never leave your device.
 ![Awesome Toolkit Dashboard](https://awesometoolkit.com/og-image.png)
 
 ## What is Awesome Toolkit?
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Privacy-first browser-based PDF tools. Files never leave your computer.
 
 Awesome Toolkit is a free online platform with 40+ file processing tools that run entirely in your browser. No file uploads, no server queues, no privacy concerns. Powered by WebAssembly, Web Workers, and in-browser AI models.
 
